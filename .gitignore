@@ -1,0 +1,5 @@
+config/params.yml
+!config/params.yml.example
+config/cookies.yml
+!config/cookies.yml.example
+*.html
